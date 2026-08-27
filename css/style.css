@@ -315,25 +315,25 @@ p { overflow-wrap: break-word; }
 }
 
 .hero h1 {
-  font-size: 2.6rem;
-  line-height: 1.15;
+  font-size: 2.1rem;
+  line-height: 1.2;
   font-weight: 500;
 }
 
 @media (min-width: 481px) {
-  .hero h1 { font-size: 3.1rem; }
+  .hero h1 { font-size: 2.4rem; }
 }
 
 @media (min-width: 641px) {
-  .hero h1 { font-size: 3.6rem; }
+  .hero h1 { font-size: 2.7rem; }
 }
 
 @media (min-width: 901px) {
-  .hero h1 { font-size: 4.2rem; }
+  .hero h1 { font-size: 3.1rem; }
 }
 
 @media (min-width: 1201px) {
-  .hero h1 { font-size: 4.6rem; }
+  .hero h1 { font-size: 3.4rem; }
 }
 
 .hero h1 em {
